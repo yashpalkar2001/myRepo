@@ -1,0 +1,53 @@
+body {
+    font-size: 62.5%;
+}
+
+
+table,
+td,
+th {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+th {
+    font-size: 14px;
+}
+
+tr {
+    font-size: 12px;
+    ;
+}
+
+tr:nth-child(odd) {
+
+    background-color: #5b709a;
+}
+
+
+/* which will change by body  */
+.p1 {
+    font-size: 1rem;
+}
+
+/* which will change by parent */
+.p2 {
+    font-size: 1em;
+}
+
+.p3 {
+    font-size: 1%;
+}
+
+.p4 {
+    font-size: 1vw;
+}
+
+.p5 {
+    font-size: 1vh;
+}
+
+.p6 {
+    font-size: 2rem;
+}
