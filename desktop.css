@@ -1,0 +1,19 @@
+.mybox {
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+
+
+}
+
+@media screen and (max-width:768px) {
+    .mybox {
+        background-color: green;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .mybox {
+        background-color: yellow;
+    }
+}
