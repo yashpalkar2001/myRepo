@@ -1,0 +1,10 @@
+What is useEffect and useRef?
+it both is type of predefined function and Hooks
+useEffect is callback function.
+useRef  allows you to persist values between renders.
+
+
+What are lifecycles in react?
+Each component in React has a lifecycle which you can monitor and manipulate during its three main phases. The three phases are: Mounting, Updating, and Unmounting.
+
+
